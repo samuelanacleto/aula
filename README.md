@@ -1,4 +1,5 @@
 package aula20/08/2018
+
 import java.util.Scanner;
 
 public class IMC {
@@ -28,9 +29,9 @@ public class IMC {
 	{
 		String result;
 		
-		if (imc <=12)
+		if (imc <=18)
 			result = "abaixo do peso";
-		else if (imc <=25)
+		else if (imc <=28)
 			result = "peso ideal";
 		else if (imc <=30)
 			result = "acima do peso";
