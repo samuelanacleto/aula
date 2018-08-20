@@ -1,5 +1,4 @@
-package aula20;
-
+package aula20/08/2018
 import java.util.Scanner;
 
 public class IMC {
